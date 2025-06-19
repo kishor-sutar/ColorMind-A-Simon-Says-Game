@@ -42,7 +42,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https:/kishor-sutar/ColorMind-A-Simon-Says-Game.git
+     git clone https://github.com/kishor-sutar/ColorMind-A-Simon-Says-Game.git
 
    
 2. Open index.html in any browser.
